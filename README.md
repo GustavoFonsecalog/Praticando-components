@@ -1,4 +1,4 @@
-# vue-components-comunicacao
+# vue-components
 
 ## Project setup
 ```
