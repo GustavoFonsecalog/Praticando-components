@@ -1,0 +1,24 @@
+Criando novo projeto com Vue CLI
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Nov 14 09:35:30 2018 -0200
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   babel.config.js
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/favicon.ico
+#	new file:   public/index.html
+#	new file:   src/App.vue
+#	new file:   src/assets/logo.png
+#	new file:   src/components/HelloWorld.vue
+#	new file:   src/main.js
+#
